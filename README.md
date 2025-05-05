@@ -19,11 +19,13 @@ A entrega deste exercício consiste em:
 
 ## 🚀 Como visualizar o projeto
 
-[👉 Clique aqui para acessar o site publicado na Vercel](https://vercel.com/danielly-s-projects-4876a538/ebac-shoes)
-
+[👉 Clique aqui para acessar o site publicado na Vercel](https://ebac-shoes-ebon-eight.vercel.app/
 
 ## 🛠 Tecnologias utilizadas
 
 - HTML5
 - CSS
 - JavaScript (jQuery)
+
+o tutor Gustavo (Gustavo Fonseca Pitombeira) compartilhou o link abaixo com intuito de aprimorar o conceito de responsividade:
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries
