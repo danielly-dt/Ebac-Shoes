@@ -27,5 +27,5 @@ A entrega deste exercício consiste em:
 - CSS
 - JavaScript (jQuery)
 
-o tutor Gustavo (Gustavo Fonseca Pitombeira) compartilhou o link abaixo com intuito de aprimorar o conceito de responsividade:
+o tutor Gustavo (Gustavo Fonseca Pitombeira) compartilhou o link abaixo com o objetivo de aprimorar o conceito de responsividade:
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries
